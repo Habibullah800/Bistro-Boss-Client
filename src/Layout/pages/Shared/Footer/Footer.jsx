@@ -10,10 +10,7 @@ const Footer = () => {
                         <span className="mx-auto">+88 123456789</span>
                         <span className="mx-auto">Mon - Fri: 08:00 - 22:00</span>
                         <span className="mx-auto">Sat - Sun: 10:00 - 23:00</span>
-
                     </div>
-
-
                 </div>
                 <div className="footer p-10  text-neutral-content bg-[#111827]">
                     <div className=" mx-auto">
